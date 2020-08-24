@@ -639,6 +639,11 @@ h6 {
   margin-bottom: 0;
 }
 
+#services .button{
+  margin-top: 2em;
+  text-align: center;
+}
+
 #why-us {
   padding: 60px 0;
   background: #004a99;
