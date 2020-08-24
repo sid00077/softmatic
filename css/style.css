@@ -191,12 +191,12 @@ h6 {
 #intro .intro-info h2 {
   color: #fff;
   margin-bottom: 40px;
-  font-size: 48px;
+  font-size: 22px;
   font-weight: 700;
 }
 
 #intro .intro-info h2 span {
-  color: #74b5fc;
+  color: #93acff;
   text-decoration: underline;
 }
 
